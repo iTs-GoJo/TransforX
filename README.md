@@ -24,9 +24,9 @@ print(translate(["سلام", "دنیا"], to_lang="en"))
 - - -
 
 ## Features
-• Translate a text or a list of texts.\n
-• Auto-detect source languages.
-• No Api-Key Requested.
+- Translate a text or a list of texts.
+- Auto-detect source languages.
+- No Api-Key Requested.
 
 - - -
 # LICENSE
