@@ -1,18 +1,18 @@
-# py-translator
+# py-Xtranslator
 
 Simple Python translation library using Google Translate unofficial API.
 
 ## Installation
 
 ```bash
-pip install py-translator
+pip install py-Xtranslator
 ```
 
 - - -
 
 ## Usage
 ```python
-from py-translator import translate
+from py-Xtranslator import translate
 
 print(translate("سلام دنیا", to_lang="en"))
 # Output: Hello World
