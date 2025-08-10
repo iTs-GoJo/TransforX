@@ -29,5 +29,5 @@ print(translate(["سلام", "دنیا"], to_lang="en"))
 - No Api-Key Requested.
 
 - - -
-# LICENSE
+## LICENSE
 The project is published with MIT License.
