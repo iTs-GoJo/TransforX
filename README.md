@@ -12,7 +12,7 @@ pip install py-translator
 
 ## Usage
 ```python
-from py_translator import translate
+from py-translator import translate
 
 print(translate("سلام دنیا", to_lang="en"))
 # Output: Hello World
