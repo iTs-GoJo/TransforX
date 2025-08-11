@@ -1,18 +1,18 @@
-# py-Xtranslator
+# TransforX 
 
 Simple Python translation library using Google Translate unofficial API.
 
 ## Installation
 
 ```bash
-pip install py-Xtranslator
+pip install transforx
 ```
 
 - - -
 
 ## Usage
 ```python
-from py-Xtranslator import translate
+from transforx import translate
 
 print(translate("سلام دنیا", to_lang="en"))
 # Output: Hello World
